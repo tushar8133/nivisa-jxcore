@@ -1,0 +1,1 @@
+cmd /k jx package module.js -add module.js -native
